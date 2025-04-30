@@ -37,7 +37,7 @@ def get_recommendation(title):
     return poster, recommended_movie_names, recommended_movie_posters, recommended_movie_overview
 
 
-image = Image.open(r"C:\Users\USER\DEPIpy\Movie-Recommendation-System\WhatsApp Image 2025-04-16 at 21.56.17_ab4866cc.jpg")
+image = Image.open(r'WhatsApp Image 2025-04-16 at 21.56.17_ab4866cc.jpg')
 st.image(image)
 
 st.markdown('You might have wondered sometime or at some point that how do platforms like Netflix or AmazonPrime Video are able to recommend us TV shows or movies, what kind of an algorithm do these websites use to recommend us movies. Well as complicated or difficult as it might seem this is simply just a mixture of some machine learning algorithms with some Natural Language Processing. ')
