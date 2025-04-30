@@ -3,8 +3,8 @@
 
 🔗 Try the App Online
 Click below to run the app in your browser:
-👉 Run on Streamlit
-<sub>[Replace with your actual Streamlit Cloud link.](https://recomstreamapppy-v.streamlit.app/)</sub>
+👉 <sub>[Run on Streamlit](https://recomstreamapppy-v.streamlit.app/)</sub>
+
 
 🔧 How It Works
 Pick a movie from the list.
