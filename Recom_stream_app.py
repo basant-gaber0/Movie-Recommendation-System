@@ -44,8 +44,8 @@ st.markdown('You might have wondered sometime or at some point that how do platf
 st.markdown('There are two main techniques used in recommendation system, known as content-based filtering and collaborative filtering')
 st.markdown('For this project I have used Content Based Recommendation System, It uses attributes such as genre, director, description, actors, etc. for movies, to make suggestions for the users. The intuition behind this sort of recommendation system is that if a user liked a particular movie or show, he/she might like a movie or a show similar to it.')
 
-df1 = pickle.load(open('movie_list.pkl ', 'rb'))
-tfidf_matrix = pickle.load(open('tfidf_matrix.pkl ', 'rb'))
+df1 = pickle.load(open('movie_list.pkl', 'rb'))
+tfidf_matrix = pickle.load(open('tfidf_matrix.pkl', 'rb'))
 
 movies_list = df1['title'].values
 selected_movie = st.selectbox('Type and Choose The Movie',movies_list)
