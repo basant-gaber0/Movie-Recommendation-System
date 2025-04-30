@@ -3,7 +3,7 @@
 
 🔗 Try the App Online
 Click below to run the app in your browser:
-👉 <sub>[Run on Streamlit](https://recomstreamapppy-v.streamlit.app/)</sub>
+👉 [Run on Streamlit](https://recomstreamapppy-v.streamlit.app/)
 
 
 🔧 How It Works
